@@ -1,8 +1,20 @@
-<h1 align="center">Hi 👋, I'm Imam Hossain</h1>
-<h3 align="center">A passionate software engineer from Bangladesh.</h3>
+### Hi there 👋
 
-<h3 align="left">Connect with me:</h3>
+
+- 🌱 I'm a software engineer working with Ruby on Rails
+
+- 📝 I write on [https://santho07.github.io](https://santho07.github.io)
+
+- 💬 Ask me about **Ruby, Ruby on Rails, React JS**
+
+- 📫 How to reach me **imamhossain.nstu10@gmail.com**
+
+### Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/imam07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/imam07/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/imam07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/imam07/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14529242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14529242" height="30" width="40" /></a>
+<a href="https://dev.to/santho07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="santho07" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">My Tech Stack:</h3>
+<p align="left"> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
