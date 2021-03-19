@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🌱 I'm a software engineer working with Ruby on Rails
+- 🌱 I'm a software engineer from Bangladesh working with Ruby on Rails
 
 - 📝 I write on [https://santho07.github.io](https://santho07.github.io)
 
