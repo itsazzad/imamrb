@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails, React JS**
 
-- 📫 How to reach me **imam.swe@gmail.com**
+- 📫 How to reach me <imam.swe@gmail.com>
 
 ### Connect with me
 <p align="left">
