@@ -3,7 +3,7 @@
 
 - 🌱 I'm a software engineer from Bangladesh working with Ruby on Rails
 
-- 📝 I write on [https://imamrb.github.io](https://imamrb.github.io)
+- 📝 I write on [imamrb.github.io](https://imamrb.github.io)
 
 - 💬 Ask me about **Ruby, Ruby on Rails, React JS**
 
