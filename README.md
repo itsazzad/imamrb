@@ -11,7 +11,7 @@
 
 ### Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imam07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/imam07/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imamrb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/imamrb/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14529242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14529242" height="30" width="40" /></a>
 <a href="https://dev.to/santho07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="santho07" height="30" width="40" /></a>
 </p>
