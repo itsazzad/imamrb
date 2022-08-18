@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🌱 I'm a software engineer from Bangladesh working with Ruby on Rails
+- 🌱 I'm a software engineer from Bangladesh, mostly working with Ruby on Rails & ReactJS
 
 - 📝 I write on [imamrb.github.io](https://imamrb.github.io)
 
@@ -21,3 +21,8 @@
 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
+
+
+## Github Stats
+![Imam's stat](https://github-readme-stats.vercel.app/api?username=imamrb&show_icons=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imamrb)
