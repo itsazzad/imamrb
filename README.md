@@ -25,7 +25,7 @@
 
 ## Github Stats
 <p>
-  <a href="https://www.github.com/imamrb" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=imamrb&show_icons=true&count_private=true" alt="github stats"/> </a>
+  <a href="https://www.github.com/imamrb" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=imamrb&show_icons=true&count_private=true&theme=vue" alt="github stats"/> </a>
 
-  <a href="https://www.github.com/imamrb" target="_blank"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imamrb" alt="stats"> </a>
+  <a href="https://www.github.com/imamrb" target="_blank"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imamrb&theme=swift" alt="stats"> </a>
 </p>
